@@ -9,7 +9,7 @@ public class App
 	public static void main( String[] args ) {
 
 		LogicA.process();
-
+		LogicB.process();
 		LogicB.mute();
 		LogicB.process();
 
